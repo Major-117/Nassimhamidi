@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nassimhamidi
+- 👋 Hi, I’m @Major-117
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning JavaScript/Python/C/Network/ect...
 
